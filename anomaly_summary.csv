@@ -1,0 +1,7 @@
+type,severity,count,total_duration_s
+statistical_outlier,medium,814,1460.0
+roc_spike,low,689,904.0
+multivariate_anomaly,medium,122,735.0
+flatline,medium,39,6408.0
+time_gap,medium,6,771.0
+time_gap,high,2,26719.0
